@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\bin\Debug\net6.0\ITRepair.exe
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\bin\Debug\net6.0\ITRepair.deps.json
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\bin\Debug\net6.0\ITRepair.runtimeconfig.json
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\bin\Debug\net6.0\ITRepair.dll
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\bin\Debug\net6.0\ITRepair.pdb
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.AssemblyInfo.cs
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.dll
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\refint\ITRepair.dll
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.pdb
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ITRepair.genruntimeconfig.cache
+C:\Users\User\Desktop\csharp\ITRepair\ITRepair\obj\Debug\net6.0\ref\ITRepair.dll
